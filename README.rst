@@ -20,7 +20,6 @@ citizens, making it easy to create independent environments even for C
 libraries. Conda is written entirely in Python, and is BSD licensed open
 source.
 
-
 Installation
 ------------
 
@@ -132,6 +131,8 @@ subscribe to the `conda mailing list
 code and issue tracker for conda are on `GitHub <https://github.com/conda/conda>`_.
 
 --------
+
+Local
 
 Contents:
 
